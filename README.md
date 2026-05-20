@@ -53,4 +53,3 @@ All processing runs **on‑device** (no data leaves your phone). The app request
 ## Repository Structure
 
 
-.
